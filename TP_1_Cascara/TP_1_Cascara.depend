@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1491234298 source:c:\users\dipietro\documents\utn\laboratorio 1\clase 2\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491235063 c:\users\dipietro\documents\utn\laboratorio 1\clase 2\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1490892428 source:c:\users\dipietro\documents\utn\laboratorio 1\clase 2\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491518647 source:c:\users\metallica\documents\utn\laboratorio 1\clase 2\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491531882 c:\users\metallica\documents\utn\laboratorio 1\clase 2\tp_1_cascara\funciones.h
+
+1491518547 source:c:\users\metallica\documents\utn\laboratorio 1\clase 2\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
