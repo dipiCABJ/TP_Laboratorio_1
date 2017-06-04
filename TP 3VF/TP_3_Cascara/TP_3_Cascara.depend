@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1496545055 source:c:\users\metallica\documents\utn\laboratorio 1\tp 3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1496520620 c:\users\metallica\documents\utn\laboratorio 1\tp 3\tp_3_cascara\funciones.h
+
+1496544806 source:c:\users\metallica\documents\utn\laboratorio 1\tp 3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
