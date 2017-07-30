@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1498521972 source:d:\final dipietro diego\diego dipietro 2\diego dipietro\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498502832 d:\final dipietro diego\diego dipietro 2\diego dipietro\arraylist.h
+
+1499992788 source:d:\final dipietro diego\diego dipietro 2\diego dipietro\tareas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"tareas.h"
+
+1499989463 d:\final dipietro diego\diego dipietro 2\diego dipietro\tareas.h
+
+1499992002 source:d:\final dipietro diego\diego dipietro 2\diego dipietro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"tareas.h"
+
+1498521972 source:c:\users\diego\documents\utn\laboratorio 1\final dipietro diego\diego dipietro 2\diego dipietro\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498502832 c:\users\diego\documents\utn\laboratorio 1\final dipietro diego\diego dipietro 2\diego dipietro\arraylist.h
+
+1501443276 source:c:\users\diego\documents\utn\laboratorio 1\final dipietro diego\diego dipietro 2\diego dipietro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"tareas.h"
+
+1501442709 c:\users\diego\documents\utn\laboratorio 1\final dipietro diego\diego dipietro 2\diego dipietro\tareas.h
+
+1501443868 source:c:\users\diego\documents\utn\laboratorio 1\final dipietro diego\diego dipietro 2\diego dipietro\tareas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"ArrayList.h"
+	"tareas.h"
+
